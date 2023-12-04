@@ -1,1 +1,2 @@
-# 0x00-python-hello_world
+# Python
+## pytnon is high level language
