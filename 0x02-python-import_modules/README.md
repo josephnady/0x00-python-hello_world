@@ -43,9 +43,7 @@ In this project, I learned about importing and using functions and creating modu
   * If the operator is none of the above, the function prints `Unknown operator.  Available operators: +, -, *, and /` followed by a new line and exits  with a status value of `1`.
   * If the number of arguments is not three, the program prints `Usage: ./100-my_calculator.py <a> <operator> <b>` followed by a new line and exits with a status value of `1`.
 
-* **7. Easy print**
-  * [101-easy_print.py](./101-easy_print.py): Python program that prints `#pythoniscool` followed by a new line in the standard output.
-  * Without using `print`, `eval`, `open`, or `sys`.
+
 
 * **8. ByteCode -> Python #3**
   * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a bytecode provided by Holberton School.
