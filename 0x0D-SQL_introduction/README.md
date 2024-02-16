@@ -2,15 +2,16 @@
     0x0D. SQL - Introduction
     
   </h1>
-<div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">Concepts</h3>
-    </div>
-    <div class="panel-body">
+<div>
+   <div>
+      <h3>Concepts</h3>
+   </div>
+   <div>
       <p>
         <em>For this project, we expect you to look at these concepts:</em>
       </p>
-
+   </div>
+   <div>
       <ul>
           <li>
             <a href="/concepts/37">Databases</a>
@@ -19,8 +20,8 @@
             <a href="/concepts/556">Databases</a>
           </li>
       </ul>
-    </div>
-  </div>
+   </div>
+</div>
 <div class="panel-body">
     <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg" alt="" loading="lazy" style=""></p>
 
