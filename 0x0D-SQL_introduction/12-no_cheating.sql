@@ -1,0 +1,3 @@
+-- UPDATE TABEL SET COLUMN = VALUE WHERE COLUMN = VALUE
+UPDATE second_table SET score = 10 WHERE name = 'Bob';
+
