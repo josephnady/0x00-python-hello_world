@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
+#!/bin/bash
 python3 -c "import py_compile; import os; n = os.getenv('PYFILE'); py_compile.compile(n, n + 'c')"
