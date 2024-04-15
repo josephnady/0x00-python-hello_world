@@ -4,10 +4,5 @@
 
 def square_matrix_simple(matrix=[]):
     """DOC"""
-    mat = []
-    for i in matrix:
-        row = []
-        for x in i:
-            row.append(x**2)
-        mat.append(row)
+    mat = [list(map(lambda x: x ** 2, sublist)) for sublist in matrix]
     return mat
