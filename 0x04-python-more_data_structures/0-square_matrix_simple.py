@@ -1,8 +1,9 @@
-#!/bin/usr/python3
+#!/usr/bin/python3
 """DOC"""
 
 
 def square_matrix_simple(matrix=[]):
+    """DOC"""
     mat = []
     for i in matrix:
         row = []
