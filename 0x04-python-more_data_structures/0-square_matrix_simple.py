@@ -3,6 +3,7 @@
 
 
 def square_matrix_simple(matrix=[]):
+<<<<<<< HEAD
     """DOC"""
    #mat = []
    #for i in matrix:
@@ -13,3 +14,8 @@ def square_matrix_simple(matrix=[]):
    #return mat
     mat = matrix.apply(map(Lambda x**2: x))
     return mat
+=======
+    """DOCs"""
+    mat = [list(map(lambda x: x ** 2, sublist)) for sublist in matrix]
+    return mat
+>>>>>>> dad0df2209a5241a5fbcd24222e298ec00d8fc5e
