@@ -1,5 +1,7 @@
 #!/bin/usr/python3
 """DOC"""
+
+
 def square_matrix_simple(matrix=[]):
     mat = []
     for i in matrix:
@@ -8,4 +10,3 @@ def square_matrix_simple(matrix=[]):
             row.append(x**2)
         mat.append(row)
     return mat
-
