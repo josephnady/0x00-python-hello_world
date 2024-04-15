@@ -3,6 +3,6 @@
 
 
 def square_matrix_simple(matrix=[]):
-    """DOC"""
+    """DOCs"""
     mat = [list(map(lambda x: x ** 2, sublist)) for sublist in matrix]
     return mat
