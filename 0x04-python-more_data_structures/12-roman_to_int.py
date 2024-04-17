@@ -19,7 +19,7 @@ def roman_to_int(roman_string):
     res2 = []
     for i in res:
         res2.append(i)
-        if i == 10:
+        if (i == 10) or (i == 5):
             for x in reversed(res2):
                 if x == 1:
                     res2.remove(x)
